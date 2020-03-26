@@ -1,8 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { PrimaryLayout } from '../../packages/shared-ui';
+import { PrimaryLayout } from '@lerna-monorepo/shared-ui';
 
-const Layout = ({ children, data }) => (<PrimaryLayout children={children} data={data} />);
+const Layout = ({ children, data }) => (
+  <PrimaryLayout children={children} data={data} />
+);
 
 Layout.propTypes = {
   children: PropTypes.func,

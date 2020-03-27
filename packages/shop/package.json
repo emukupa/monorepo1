@@ -4,10 +4,10 @@
     "version": "1.0.2",
     "dependencies": {
         "@lerna-monorepo/shared-ui": "^1.0.1",
-        "gatsby": "^2.8.3",
+        "gatsby": "^1.9.247",
         "gatsby-link": "^2.3.1",
         "gatsby-plugin-react-helmet": "^3.0.12",
-        "gatsby-plugin-react-next": "^1.0.11",
+        "gatsby-plugin-react-next": "^2.0.1-2",
         "gatsby-source-filesystem": "^2.0.38",
         "gatsby-transformer-json": "^2.1.11",
         "gatsby-react-router-scroll": "^1.0.18",
